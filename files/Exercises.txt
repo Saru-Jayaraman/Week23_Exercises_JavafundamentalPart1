@@ -1,0 +1,44 @@
+Exercises Part1:
+• Create a String with your first name as content. Print out the String object to the console.
+
+• Create two Strings. One with your first name and the other with your last name. Print out both Strings to the console with a ” ” separating them.
+
+• Create two variables with decimal values . Create a third decimal variable called result. Assign the sum of the two first variables to result.
+
+• Create a class called Car. The class should contain the following information. Car brand, registration number , max speed, owner name and one more attribute of your choice. Instantiate an Object of the class and assign values to the object.
+
+• Make an integer called score and assign a value to it. Create an if statement that should print out Hurray, You passed !", if the score is above or equals to 65. If the score is Equal or between 55 and 64 it should print "You are almost there". If score is below 5 5 it should print "Sorry, You did not pass.".
+
+• Being a developer you need to learn how to search for information on the Internet. Open up a web browser and search for ”java input from user.
+
+• Use your new knowledge to take a String as input from the user and store it in a String object.
+
+Exercises Part2:
+1. Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+Expected result:
+Hello
+Ali!
+
+2. Create a program that takes a year as input from user and print if it’s leap year or not.
+
+3. Write a Java program to print the sum/multiplication/division and subtraction of two numbers
+Expected result:
+45 + 11 = 56
+12 * 4 = 48
+24 / 6 = 4
+55 – 12 = 43
+
+4. Write a Java program that prints the average of three numbers
+Expected result:
+(23 + 11 + 77) / 3 = 37
+
+5. Create a program that asks user to input his/her name and store it in a variable instead of having fixed name. Then print ‘Hello username’ where username is what you got from user as input.
+
+6. Create a program that asks user to input two numbers and print the sum/multiplication/division and subtraction of given numbers
+
+7. Create a program that converts seconds to hours, minutes and seconds
+Input seconds: 86399
+Expected output:
+23:59:59
+
+8. Write a program that first generates a random number between 1 and 500 and stores it into a variable (see the Random class). Then let the user make a guess for which number it is. If the user types the correct number, he should be presented with a message (including the number of guesses he has made). If he types a number that is greater or smaller than the given number, display either “Your guess was too small” or “Your guess was too big”. The program should keep executing until the user input the correct guess
